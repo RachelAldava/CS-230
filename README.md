@@ -1,1 +1,12 @@
-# CS-230
+#	Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+In this course’s scenario, the client’s name is Creative Technology Solutions, which is seeking to expand an existing android app into other programs. Specifically, it is a game very similar to Pictionary except that instead of drawing the image, there is a preexisting image that will slowly be rendered on a timer. The specified structure calls for a game instance with unique teams and players who try to guess an image before time runs out.
+#	What did you do particularly well in developing this documentation?
+I was able to maintain the original structure of the template, however there are occasions where aligning to the template conventions proved to be a bit awkward in terms of formatting.
+#	What about the process of working through a design document did you find helpful when developing the code?
+While creating the first draft of the document, I realized that I misunderstood a small aspect of the scenario and was able to backtrack and correct these errors.
+#	If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+I feel like the evaluation section may need a bit of retooling; either it needs to be compressed into a much smaller word count or the table needs to be removed and replaced with a standard paragraph structure.
+#	How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+I struggled with making certain assumptions such as the company’s projected userbase. When making recommendations about hardware or structures, it is difficult to anticipate these requirements if you do not know whether the game will be capable of being housed on a single low powered server or whether it would take multiple server racks to run the game.
+#	How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+I feel like this course did not really go into any great detail in terms of actually coding the software. The overall structure of the software was explicitly outlined by course materials. I did enjoy the section where we coded a very basic API and I would be absolutely thrilled for the opportunity to expand on this experience and begin to be more familiar with different methods to create APIs and how to like two different systems together.
